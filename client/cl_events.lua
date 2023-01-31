@@ -1,0 +1,1 @@
+AddEventHandler("onClientGameTypeStart", spawnPlayer)
