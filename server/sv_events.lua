@@ -1,0 +1,1 @@
+AddEventHandler("playerConnecting", checkWhitelist)
